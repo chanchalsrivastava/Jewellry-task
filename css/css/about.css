@@ -1,0 +1,12 @@
+.hero-wrap {
+    background-attachment: scroll; /* or fixed */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+  }
+  
+  .hero-wrap img {
+    image-rendering: auto; /* Ensures natural rendering */
+  }
+  
